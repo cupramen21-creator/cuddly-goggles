@@ -32,3 +32,16 @@ button:hover{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-bottom:var(--margin);
 }
+#divimg1{
+    display: flex;
+    justify-content: left;
+    margin-bottom: var(--margin);
+}
+#aboutmediv{
+    display: flex;
+    justify-content: center;
+}
+#divtext3{
+    display: flex;
+    justify-content: center;
+}
