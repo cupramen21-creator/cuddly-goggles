@@ -1,0 +1,24 @@
+:root{
+    /*colors*/
+    --cerulean: #007ba7;
+    --blue: #2a52be;
+
+    /*sizing*/
+    --sm: 2px;
+    --md: 10px;
+    --lg: 40px;
+}
+#heading{
+    display: flex;
+    color: blue;
+    background-color: black;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button:hover{
+    color:aliceblue;
+    transform: translateY(-2px);
+}
