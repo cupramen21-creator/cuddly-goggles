@@ -1,14 +1,16 @@
 :root{
     /*colors*/
-    --cerulean: #007ba7;
-    --blue: #2a52be;
+    --purple: #9520c4;
+    --brown: #75440c;
+    --darkpurple:#470b5f;
 
     /*sizing*/
     --sm: 2px;
     --md: 10px;
     --lg: 40px;
+    --margin: 20px;
 }
-#heading{
+/*#heading{
     display: flex;
     color: blue;
     background-color: black;
@@ -21,4 +23,12 @@
 button:hover{
     color:aliceblue;
     transform: translateY(-2px);
+}*/
+#divtitle{
+    display: flex;
+    color: var(--darkpurple);
+    background-color:lavender;
+    justify-content: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom:var(--margin);
 }
