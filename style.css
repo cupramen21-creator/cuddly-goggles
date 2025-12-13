@@ -42,3 +42,7 @@ button:hover{
     display: flex;
     justify-content: center;
 }
+a:hover{
+transform: translateY(-4px);
+color: var(--purple);;
+}
