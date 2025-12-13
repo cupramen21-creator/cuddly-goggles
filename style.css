@@ -3,6 +3,7 @@
     --purple: #9520c4;
     --brown: #75440c;
     --darkpurple:#470b5f;
+    background-color: rgb(193, 164, 223);
 
     /*sizing*/
     --sm: 2px;
@@ -38,10 +39,6 @@ button:hover{
     margin-bottom: var(--margin);
 }
 #aboutmediv{
-    display: flex;
-    justify-content: center;
-}
-#divtext3{
     display: flex;
     justify-content: center;
 }
